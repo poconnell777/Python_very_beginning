@@ -1,0 +1,186 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOaK/SRmT9rd87gl1XFdJJm",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/poconnell777/Python_very_beginning/blob/main/Chapter%201trial\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "qqmP3F4edLtp",
+        "outputId": "15ceb23e-80e7-4cae-e8e8-2806a7ba834b"
+      },
+      "source": [
+        "print(12)"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "12\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "fc7W1TJIdUiA",
+        "outputId": "64cd62be-66d3-4d00-b8a9-cd67c9a94ed5"
+      },
+      "source": [
+        "print('Just like this')"
+      ],
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Just like this\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GnCJJotkdjW4",
+        "outputId": "b0eb3362-aa5b-4a2a-c386-23374ec94be7"
+      },
+      "source": [
+        "1+2*3"
+      ],
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "7"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 6
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "PcDwYbdEduk4",
+        "outputId": "3d933810-bc3e-410c-8296-957858716a7e"
+      },
+      "source": [
+        "1000000+2000000*30000000"
+      ],
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "60000001000000"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "aZdCgtMMd9X4",
+        "outputId": "ee9bf692-1406-4529-ae43-e6bfc99359c7"
+      },
+      "source": [
+        "4+3+2+1==10"
+      ],
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "True"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "AvD0g4DPeE0B",
+        "outputId": "c9dde9e2-a620-468a-eb1f-98df894d5194"
+      },
+      "source": [
+        "99>100"
+      ],
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "False"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 9
+        }
+      ]
+    }
+  ]
+}
